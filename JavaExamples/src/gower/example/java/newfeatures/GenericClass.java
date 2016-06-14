@@ -7,7 +7,7 @@ import javax.management.loading.PrivateClassLoader;
 public class GenericClass<T> {
 
 	private T t;
-	//test  
+	//test  2
 	public void add(T t){
 		this.t=t;
 	}
